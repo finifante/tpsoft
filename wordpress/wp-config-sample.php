@@ -20,16 +20,16 @@
 
 // ** Параметры MySQL: Эту информацию можно получить у вашего хостинг-провайдера ** //
 /** Имя базы данных для WordPress */
-define('DB_NAME', 'database_name_here');
+define('DB_NAME', 'db2vs0p30rejk6');
 
 /** Имя пользователя MySQL */
-define('DB_USER', 'username_here');
+define('DB_USER', 'pduatnugoxlzku');
 
 /** Пароль к базе данных MySQL */
-define('DB_PASSWORD', 'password_here');
+define('DB_PASSWORD', 'ITIlYqnI3gmmEQarsyD8tInf7X');
 
 /** Имя сервера MySQL */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'ec2-54-243-45-168.compute-1.amazonaws.com:5432');
 
 /** Кодировка базы данных для создания таблиц. */
 define('DB_CHARSET', 'utf8');
@@ -71,7 +71,7 @@ $table_prefix  = 'wp_';
  * Измените это значение на true, чтобы включить отображение уведомлений при разработке.
  * Разработчикам плагинов и тем настоятельно рекомендуется использовать WP_DEBUG
  * в своём рабочем окружении.
- * 
+ *
  * Информацию о других отладочных константах можно найти в Кодексе.
  *
  * @link https://codex.wordpress.org/Debugging_in_WordPress
