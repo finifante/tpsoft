@@ -20,16 +20,16 @@
 
 // ** Параметры MySQL: Эту информацию можно получить у вашего хостинг-провайдера ** //
 /** Имя базы данных для WordPress */
-define('DB_NAME', 'db2vs0p30rejk6');
+define('DB_NAME', 'sql7128295');
 
 /** Имя пользователя MySQL */
-define('DB_USER', 'pduatnugoxlzku');
+define('DB_USER', 'sql7128295');
 
 /** Пароль к базе данных MySQL */
-define('DB_PASSWORD', 'ITIlYqnI3gmmEQarsyD8tInf7X');
+define('DB_PASSWORD', '5L5WDgGtTl');
 
 /** Имя сервера MySQL */
-define('DB_HOST', 'ec2-54-243-45-168.compute-1.amazonaws.com:5432');
+define('DB_HOST', 'sql7.freemysqlhosting.net');
 
 /** Кодировка базы данных для создания таблиц. */
 define('DB_CHARSET', 'utf8');
